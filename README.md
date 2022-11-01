@@ -5,3 +5,4 @@
 - Uma Startup ficiticia quer aumenta seu portifolio de clientes, meu objetivo é implementar e visa um projeto que reconhece os padroes de compra de cada cliente e identificar os possiveis pontos de falhas que existe no sistema e que permite fraudes ao longo do tempo
 
 
+- Primeira fase é o tratamento de possiveis dados null e faltantes, renomeamento de linhas e colunas e analises iniciais dos dados do dataset
