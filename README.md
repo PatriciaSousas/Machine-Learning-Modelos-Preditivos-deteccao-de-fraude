@@ -12,3 +12,5 @@
 
 - Quando rodei o primeiro teste,  acuracia ficou muito alta, mas as demais metricas estão baixas por exemplo a a precisão 0.2 ( precisão significa o quanto verdadeiro positivo o modelo está de fato conseguindo considerar)
 e um F1 score de 071 que é a media harmonica, então algo está afetando os dados e a classificação desses dados, aqui eu usei a matriz de confusão de entender onde esta o erro
+
+- Detectei usando a curva de Roc um desbaleaceamento dos dados classificados, acuracia está alta, porém as demais metrícas estão em desequilibrio no modelo
