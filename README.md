@@ -25,3 +25,12 @@ e um F1 score de 071 que é a media harmonica, então algo está afetando os dad
 - tipo_PAYMENT é o que a pessoa utiliza como padrão e a fraude ocorre por meio do tipo_TRANSFER
 - O cliente pode fazer seus pagamentos durante um período do dia, como por exemplo durante a manhã, e a fraude ocorre durante um período diferente, como a madrugada.
 - O cliente paga as duas contas no comoeço do mês e houve uma movimentação no final do mês, sendo uma fraude.
+
+## Arvore de decisao 
+
+- nessa segunda etapa apliquei o modelo arvore de decisao aplicando os dois modelos de machine learning e entendendo qual profundidade o modelo tem de acertos e erros
+
+
+
+
+
