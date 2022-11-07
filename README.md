@@ -28,7 +28,9 @@ e um F1 score de 071 que é a media harmonica, então algo está afetando os dad
 
 ## Arvore de decisao 
 
-- nessa segunda etapa apliquei o modelo arvore de decisao aplicando os dois modelos de machine learning e entendendo qual profundidade o modelo tem de acertos e erros
+- Nessa segunda etapa apliquei o modelo arvore de decisao aplicando os dois modelos de machine learning e entendendo qual profundidade o modelo tem de acertos e erros
+isso inclui também a random forest trazendo varios comparativos e entendendo quais arvores de decisao sao as melhores
+
 
 
 
