@@ -31,8 +31,8 @@ e um F1 score de 071 que é a media harmonica, então algo está afetando os dad
 - Nessa segunda etapa apliquei o modelo arvore de decisao aplicando os dois modelos de machine learning e entendendo qual profundidade o modelo tem de acertos e erros
 isso inclui também a random forest trazendo varios comparativos e entendendo quais arvores de decisao sao as melhores
 
+## Respondendo as hipoteses (Fraudes)
 
-
-
-
-
+-  Fazer um CAPTCHA para aumentar a segurança em horários não convencionais.COPIAR CÓDIGO
+-  O(a) cliente utiliza como padrão o pagamento em dinheiro, seja por PIX ou retirada*, e a fraude pode ocorrer por um pagamento por transferência.
+- Solicitar uma verificação de informação adicional do banco, como uma pergunta de segurança, para movimentaçõ
